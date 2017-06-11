@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: "Gerald Cantor"
-date: "6/10/2017"
+date: "6/11/2017"
 output: 
   html_document:
     keep_md: true
